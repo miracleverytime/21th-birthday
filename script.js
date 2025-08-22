@@ -278,8 +278,7 @@ function skipTypewriter() {
     clearInterval(typewriterInterval);
     const messageContent = document.querySelector(".message-content");
     if (messageContent) {
-      const fullMessage = `Hi Belek,<br><br>
-            On This Quiet Night,<br><br>
+      const fullMessage = `On This Quiet Night,<br><br>
             The hours unfold<br>
             measured not by clocks, but by the soft turning of your years.<br><br>
             A candle burns, its flame bending like memory,<br>
